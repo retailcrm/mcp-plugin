@@ -9,10 +9,6 @@
 
 MCP-сервер предоставляет инструменты и доступ к данным, а skill объясняет агенту, как корректно ими пользоваться.
 
-Официальные выпуски: [retailcrm/mcp-plugin](https://github.com/retailcrm/mcp-plugin). Этот репозиторий обновляется автоматически при выпуске новой версии.
-
-Исходная версия перенесена из [ilyavlasoff/RetailCRM-Plugin](https://github.com/ilyavlasoff/RetailCRM-Plugin).
-
 ## Установка плагина
 
 ### OpenAI Codex

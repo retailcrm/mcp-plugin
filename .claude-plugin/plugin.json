@@ -3,7 +3,7 @@
   "name": "retailcrm",
   "displayName": "RetailCRM",
   "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "RetailCRM Team"
   },

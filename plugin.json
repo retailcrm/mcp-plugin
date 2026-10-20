@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "retailcrm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp.",
   "author": {
     "name": "RetailCRM Team"
