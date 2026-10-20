@@ -1,0 +1,24 @@
+{
+  "brand": "retailcrm",
+  "tag": "v0.1.0",
+  "version": "0.1.0",
+  "source_commit": "a464e0130942c2e93650c83f0119f7fe7dd76c6c",
+  "github_repository": "retailcrm/mcp-plugin",
+  "files": {
+    ".agents/plugins/marketplace.json": "0ed1e3337d3345a119b4eb3b77cdb2268950aa350127b8e48589c6900ffd6535",
+    ".claude-plugin/marketplace.json": "9b7f112da083ba13fe9c01503c38c90384d6dad8ecaa62e3c5e699be79b8deb0",
+    ".claude-plugin/plugin.json": "7bdfe370fea7a7622cd8ba12647b909c48b311237ad2f49622f01d7845c4779a",
+    ".codex-plugin/plugin.json": "23b15d3a19697ee0ebd7ffeeedd93d8f804cbd2556bc3a6de612f7c38d3c50e3",
+    "LICENSE": "1e740537fd0ab93bf2f11648a9aeea56d7edb47bdae84fbcedd78570eadecef8",
+    "README.md": "a2774e8616b3b10213eb8fb0119606430c70b2c722f506b70b128c9454b1ef08",
+    "assets/composer-icon.svg": "ab390f6bb5cf2c898adc12f999f9525ed0b8abf0cb57a18d73a32b8c971211c2",
+    "assets/logo.svg": "a8cac28443d6577150c85d8e2d950170a52270252238e653450e89132f531614",
+    "plugin.json": "1ef502e082a9f0795c94135af0fb9a261357ef056b29986268fe4875b17da72c",
+    "skills/use-retailcrm/SKILL.md": "b2ea6a42573c57de3f23c448e3fb62e52ed4086e5c5b4766aab5b3109c99b872",
+    "skills/use-retailcrm/agents/openai.yaml": "8ff10c04ec9a208343e03c2a57228fce84e73ce14eec2048654ea294b5d22a5f",
+    "skills/use-retailcrm/references/list-operations.md": "7ac45beeb8406fbc39937ced79430d96cbe7e08aeb6d7b4e4e2589a0cd57ce04",
+    "skills/use-retailcrm/references/mutations.md": "7594a0b71a7e88f0ce7c68c2c60a30af02048c09f254ff856b3cda58cc32986a",
+    "skills/use-retailcrm/references/repeated-queries.md": "31240b0313664c269821cdac90b84d0a8bd166ec978d117baae1bc67e1b657ba",
+    "skills/use-retailcrm/references/schema-resolution.md": "c460448242bedb683eca94080af5133f88ab4ed98da571c0cf0eba7a5c76dd43"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "retailcrm",
+  "version": "0.1.0",
+  "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp.",
+  "author": {
+    "name": "RetailCRM Team"
+  },
+  "homepage": "https://github.com/retailcrm/mcp-plugin",
+  "repository": "https://github.com/retailcrm/mcp-plugin",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "RetailCRM",
+        "shortDescription": "GraphQL access to RetailCRM through MCP.",
+        "longDescription": "Works with the official RetailCRM GraphQL API through retailcrm_mcp.",
+        "developerName": "RetailCRM Team",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive",
+          "Read",
+          "Write"
+        ],
+        "defaultPrompt": [
+          "Use $use-retailcrm to work with RetailCRM."
+        ],
+        "brandColor": "#1d7afc",
+        "logo": "./assets/logo.svg",
+        "composerIcon": "./assets/composer-icon.svg"
+      }
+    }
+  }
+}

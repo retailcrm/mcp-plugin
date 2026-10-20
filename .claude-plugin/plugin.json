@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "retailcrm",
+  "displayName": "RetailCRM",
+  "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp.",
+  "version": "0.1.0",
+  "author": {
+    "name": "RetailCRM Team"
+  },
+  "homepage": "https://github.com/retailcrm/mcp-plugin",
+  "repository": "https://github.com/retailcrm/mcp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "retailcrm",
+    "crm",
+    "graphql",
+    "mcp"
+  ]
+}

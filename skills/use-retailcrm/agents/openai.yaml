@@ -1,0 +1,4 @@
+interface:
+  display_name: "RetailCRM via Core MCP"
+  short_description: "GraphQL access to RetailCRM"
+  default_prompt: "Use $use-retailcrm to find the required operations in the official GraphQL API and execute a RetailCRM request through retailcrm_mcp."

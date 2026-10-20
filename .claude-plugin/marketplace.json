@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "retailcrm-plugin",
+  "owner": {
+    "name": "RetailCRM Team"
+  },
+  "metadata": {
+    "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp."
+  },
+  "plugins": [
+    {
+      "name": "retailcrm",
+      "source": "./",
+      "description": "Secure access to the official RetailCRM GraphQL API through retailcrm_mcp.",
+      "version": "0.1.0"
+    }
+  ]
+}
